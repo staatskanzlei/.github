@@ -1,4 +1,4 @@
-# Swiss Federal Chancellery Open Source Repository
+# St.Gallen State Chancellery Open Source Repository
 
 <img width="1940" height="800" alt="image" src="https://github.com/user-attachments/assets/fe3f6a6f-e353-4027-b03a-e29eb7887258" />
 
