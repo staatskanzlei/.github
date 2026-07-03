@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-You can find the eGov St.Gallen GitHub repo at: [xxx](https://github.com/eGovSG)
+You can find the eGov St.Gallen GitHub repo at: [github.com/eGovSG](https://github.com/eGovSG)
 
 <!--
 
